@@ -4,15 +4,9 @@
 </br>
 
 # Problem statment
-Building footprints are being digitized,annotated from time to time depending on various use case in our Geoinformatic society. However, digitizing over large areas become a labour intensive work and therefore most of GIS related process are almost bottlenecked in this phase. However, with a help of emerging discipline as we all know as Deep learning, it become an easy work. Being able to use the model efficiently is the only thing we require comparing to labour intensive and time-consuming digitizing tasks.
-
-Humbly published this repo in pursuits of trying our utmost to be a great lift for Myanmar Geoinformatic and Machine learning society. Since both contributors were still at their grittiest learning phase, sincere apologies are delivered if any mistakes or inconveiences are encountered.
+Abundant amount of deforestations are being occured in all corner of the world regardless of region politics,economy and standard of living. Numerous efforts have been put into montioring forest cover from time to time and Rubber trees were amongst one of the factor contributing to deforestation.
 
 This project aims to help beginners in both Geospatial technology and deep learning to understand and work out a particular segmentation project on their own.
-There are two tracks with 
-- one for using our model to extract building footprint his/her own needs
-- one for those who would like to gain details insight on our project 
-
 
 
 ## Utils
