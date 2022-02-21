@@ -6,6 +6,8 @@
 # Problem statment
 Abundant amount of deforestations are being occured in all corner of the world regardless of region politics,economy and standard of living. Numerous efforts have been put into montioring forest cover from time to time and Rubber trees were amongst one of the factor contributing to deforestation.
 
+Here is an attempt to identify where the rubber trees may lies in satellite imagery and segment it.
+
 This project aims to help beginners in both Geospatial technology and deep learning to understand and work out a particular segmentation project on their own.
 
 
