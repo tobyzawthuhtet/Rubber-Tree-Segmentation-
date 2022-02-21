@@ -10,6 +10,8 @@ Here is an attempt to identify where the rubber trees may lies in satellite imag
 
 This project aims to help beginners in both Geospatial technology and deep learning to understand and work out a particular segmentation project on their own.
 
+Humbly published this repo in pursuits of trying our utmost to be a great lift for Myanmar Geoinformatic and Machine learning society. Since both contributors were still at their grittiest learning phase, sincere apologies are delivered if any mistakes or inconveiences are encountered.
+
 
 ## Utils
 - image_utils.py (used for image preprocessing and postprocessing)
