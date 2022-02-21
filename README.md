@@ -15,19 +15,11 @@ There are two tracks with
 
 
 
-## For those longing for details, please go through
--  1.Generate_images_and_masks.ipynb
--  2.Train.ipynb
--  3.Inference.ipynb
--  4.Geo-processing Tuto.ipynb
-
-
 ## Utils
 - image_utils.py (used for image preprocessing and postprocessing)
-- geoprocess.py (used for georeferencing and shapefile conversion)
 
 ## For those who would like to use our model, please go through 
-- Inference.ipynb 
+- notebook/Unet_model_for_rubber_segmentation.ipynb 
 
 ## Weights
 - Pretrained weights can be seen under weights folder
