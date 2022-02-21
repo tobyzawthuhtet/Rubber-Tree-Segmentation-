@@ -35,7 +35,7 @@ There are two tracks with
 ## Sample Predictions
  <img src="/Inference%20Resutlts/1.Inference.jpg" width="550" height="200" hspace="50"> 
  
- <img src="/Inference%20Resutlts/1.Predict.png" width="650" height="200" hspace="50"> 
+ <img src="/Inference%20Resutlts/1.Predict.png" width="550" height="200" hspace="50"> 
  
 ## Datasets
 
