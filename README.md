@@ -33,7 +33,7 @@ There are two tracks with
 - Pretrained weights can be seen under weights folder
 
 ## Sample Predictions
- <img src="/files/download%20(2).png" width="750" height="200" hspace="50"> 
+ <img src="/Inference Results/1.Inference%20.jpg" width="750" height="200" hspace="50"> 
  
  <img src="/files/download%20(3).png" width="650" height="200" hspace="50"> 
  
