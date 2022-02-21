@@ -43,4 +43,4 @@ Datasets used in our training process can be found under this folder. Labelme an
 
 <p>Bianry mask images can be exported from labelme json format using the following syntax: </p> <br> 
 
-> <code> labelme_json_to_dataset Clip_final_hlaing_thar_yar11.json -o Labelme_Output_data </code>
+> <code> labelme_json_to_dataset Dawei_rubber.json -o Labelme_Output_data </code>
